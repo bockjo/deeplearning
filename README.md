@@ -10,4 +10,4 @@ In this repository I would like to showcase some of my work related to neural ne
 3) [Fully-connected neural network from scratch (numpy)](http://nbviewer.jupyter.org/github/bockjo/deeplearning-and-related/blob/master/Neural_network_in_numpy.ipynb)
 <a href="url"><img src="https://www.python.org/static/favicon.ico" height="20" width="20" ></a> <br>
 
-Besides these short showcase projects I also took part in [Kaggle competitions](https://www.kaggle.com/bockjo), where I trained deep neural networks to recognize cats and dogs with about 97% accuracy, for instance.
+Besides these short showcase projects I also took part in [Kaggle competitions](https://www.kaggle.com/bockjo), where I trained deep neural networks to recognize cats and dogs with 97% accuracy, for instance.
